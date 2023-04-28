@@ -5,7 +5,7 @@
 <h4>Working on:</h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fMercury13&repo=IUTest)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github.com/fMercury13/fMercury13/pc.gif" height="300">
+<img src="https://raw.githubusercontent.com/fMercury13/fMercury13/main/pc.gif" height="300" align="right">
 <h4>My languages are:</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fMercury13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
